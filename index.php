@@ -135,7 +135,7 @@
 		
 							
 								<div align="center">
-									<button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--accent mdl-button--raised" type="button" id="btnAdicionar" tabindex="-1" value="Adicionar outro" ng-click="add()"><i class="material-icons">add</p></i></button>
+									<button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--accent mdl-button--raised" type="button" id="btnAdicionar" tabindex="-1" value="Adicionar outro" ng-click="add()"><i class="material-icons">add</i></button>
 									
 									<button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--accent mdl-button--raised" type="button" id="btnLimpar" tabindex="-1" value="Remover todos" ng-click="clear()"><i class="material-icons">delete</i>Todos</button>
 								</div>
