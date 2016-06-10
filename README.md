@@ -58,7 +58,6 @@ Front-End     | HTML, Javascript, JQuery
 Back-End    | Javascript, PHP
 Framework WEB    | MDL - Material Design Lite
 Editor de Texto  | Sublime e c9.io
-Design pattern  | 
 Servidor Web    | https://github.io/ e https://c9.io
 
 ##Atividades Realizadas no Período
