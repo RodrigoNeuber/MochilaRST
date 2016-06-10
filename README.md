@@ -2,8 +2,8 @@
 
 Repositório para a implementação do algoritmo Mochila
 
-Rodrigo Neuber  RA: 53675-1
-Sandra kawakame RA: 53749-7
+Rodrigo Neuber  RA: 53675-1,
+Sandra kawakame RA: 53749-7,
 Talita Mendes   RA: 54274-1
 
 Projeto de Pesquisa Operacional
@@ -13,6 +13,7 @@ O algoritmo da mochila consiste em preencher a mochila com objetos diferentes de
 
 ## Ferramentas
 
+- PHP
 - Javascript
 - JQuery
 - Material Design Lite
